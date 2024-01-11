@@ -32,8 +32,6 @@ npm start
 
 Open http://localhost:3000 to view it in the browser.
 
- ** Live Demo:**[Netflix Clone](https://656d680fdb89ad0fbc416132--venerable-creponne-11d410.netlify.app/contacts)
-
 # Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
